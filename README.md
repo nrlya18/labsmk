@@ -24,6 +24,6 @@ Setelah muncul halaman repository, kamu bisa memulai membuat sebuah file baru pa
 
 Langkah Keenam – Bersosialisasi.
 erakhir kamu bisa mengeksplorasi segala postingan dalam halaman feed yang telah diatur oleh GitHub. Tentu sesuai dengan ketertarikanmu. Di sini kamu bisa memberikan like, berkomentar, berkenalan, dan berdiskusi untuk membahas algoritma tertentu misalnya. Tentunya, kamu juga dapat memposting segala sesuatu kepada public.
+
+
 ![alya](https://github.com/nrlya18/labsmk/assets/156055620/620eb498-9af2-4300-ad63-35ef47bd598a)
-
-
