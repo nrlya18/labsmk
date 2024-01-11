@@ -1,4 +1,4 @@
-# labsmk
+# LabSmk4Barru
 Cara Menggunakan GitHub Bagi Pemula.
 
 Langkah Pertama – Join Account.
